@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/aureum-bank/static/js/main.770d7354.js",
+    "main.js": "/aureum-bank/static/js/main.cc4b3483.js",
     "static/js/453.7da70a0a.chunk.js": "/aureum-bank/static/js/453.7da70a0a.chunk.js",
     "index.html": "/aureum-bank/index.html",
-    "main.770d7354.js.map": "/aureum-bank/static/js/main.770d7354.js.map",
+    "main.cc4b3483.js.map": "/aureum-bank/static/js/main.cc4b3483.js.map",
     "453.7da70a0a.chunk.js.map": "/aureum-bank/static/js/453.7da70a0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.770d7354.js"
+    "static/js/main.cc4b3483.js"
   ]
 }
