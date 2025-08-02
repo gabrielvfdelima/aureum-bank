@@ -39,7 +39,9 @@ export const CustomCard = () => {
             <CardHeader>
               <Center display="flex" flexDirection="column">
                 <Box boxSize="150px">
-                  <Image src="/assets/img/logo.png" />
+                  <Image
+                    src={`${process.env.PUBLIC_URL}/assets/minha-imagem.png`}
+                  />
                 </Box>
                 <Text
                   fontSize="2xl"
